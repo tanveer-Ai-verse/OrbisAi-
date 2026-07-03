@@ -41,7 +41,9 @@ APP_ICON = "🪐"
 # constant to swap models later.
 GROQ_MODEL = "openai/gpt-oss-120b"
 
-MAX_PAPER_CHARS = 120_000   # generous slice of the 131K-token context window
+# Based on your 8,000 token limit, reducing this will prevent 413 errors.
+MAX_PAPER_CHARS = 20_000 
+
 NOVELTY_THRESHOLD = 60
 ARXIV_MAX_RESULTS = 8
 

@@ -1,6 +1,8 @@
 # 🪐 OrbisAi — Research Intelligence & Innovation Auditor
 
 OrbisAi helps students ingest research papers quickly and pressure-test the novelty of their own project ideas before committing months of work to them.
+# ▶️ Live app of the project 
+https://jfn6rsvataedeogybukpxn.streamlit.app/
 
 ## Features
 
